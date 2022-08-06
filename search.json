@@ -7,18 +7,18 @@
     "text": "This is a post with executable code."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/a-blog-in-2-min/index.html",
+    "href": "posts/a-blog-in-2-min/index.html",
+    "title": "Setting up this blog",
     "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Step 1: Set up a repo at https://github.com/openpencil/doodles and added a .gitignore.\nStep 2. Cloned the repo locally:\n\ngit clone git@github.com:openpencil/doodles.git\n\nStep 3. Added a Quarto blog\n\nquarto create-project doodles --type website:blog\n\nStep 4. Publish the blog\n\nquarto publish gh-pages \nThat’s it. These four steps will publish a blog at this address: https://openpencil.github.io/doodles/\nPre-requisites: 1. You will need a git repository called: https://github.com/openpencil/openpencil.github.io"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "doodles",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 3, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2022\n\n\nopenpencil, Harlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhow-to\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2022\n\n\nopenpencil, openpencil\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
